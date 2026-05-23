@@ -22,3 +22,6 @@ Pull the latest image:
 docker pull ghcr.io/raci0n/runner-image:latest
 ```
 
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
